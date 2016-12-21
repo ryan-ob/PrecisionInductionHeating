@@ -1,9 +1,9 @@
-## Induction Heating Control with Digital Temperature Probe
+# Induction Heating Control with Digital Temperature Probe
 
 A Sous-Vide alternative.
 
 
-# Prototype, the "Sous Chef"
+## Prototype, the "Sous Chef"
 
 ![alt text](souschef_prototype.jpg "Sous Chef Prototype")
 
